@@ -13,6 +13,8 @@ A slot game client built with [Cocos Creator](https://www.cocos.com/en/creator) 
 2. Open the scene at `assets/scenes/MainGame.scene`.
 3. Use the editor's preview to run it in the browser.
 
+For setting up Kiro, the Cocos Accelerator Power, and the MCP server used to drive the editor, see [INSTALL.md](INSTALL.md).
+
 The project opens on `MainGame.scene`, which contains a `Canvas` with a background, a reel board (`ReelRoot`), and a UI layer.
 
 ## Scene structure
